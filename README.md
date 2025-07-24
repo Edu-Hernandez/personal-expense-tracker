@@ -15,7 +15,7 @@ PERSONAL-EXPENSE-TRACKER/
 - **Frontend**: Desarrollado con **React**, **Redux Toolkit** y **Vite**, ofrece una interfaz de usuario intuitiva. La documentación específica está disponible dentro de la carpeta `Front`.
 
 ## Requisitos
-- **Node.js** (>= 14.x)
+- **Node.js** (>= 18.x)
 - **npm** o **yarn**
 - **MongoDB** (instancia local o en la nube)
 
